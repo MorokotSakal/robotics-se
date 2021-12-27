@@ -1,2 +1,11 @@
-# robotics-se
-A system engineering aproach of how to run a robotics team in university. It is based on author personal's experience of running an university robotics team in Cambodia.
+# How to Run a Robotics Team in University: System Engineering Based Approach
+A system engineering aproach of how to run a robotics team in university. 
+It is based on author personal's experience of running an university robotics team in Cambodia.
+
+
+## Contents
+1. Team vision & goal
+2. Finance
+3. Yearly Activities
+4. Team organization
+5. Trainings
