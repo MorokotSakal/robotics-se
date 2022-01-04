@@ -1,5 +1,5 @@
-# Operating a Robotics Team in University - System Engineering Approach
-A system engineering aproach of how to run a robotics team in university. 
+# Leading a Robotics Team in University - System Engineering Approach
+A system engineering aproach of how to lead a robotics team in university. 
 It is based on author personal's experience of running an university robotics team in Cambodia.
 
 
