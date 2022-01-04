@@ -4,9 +4,9 @@ It is based on author personal's experience of running an university robotics te
 
 
 ## Contents
-1. Team vision & strategy
+1. Goal & Strategy
 2. Finance
 3. Yearly Activities
-4. Team organization
+4. Team Organization
 5. Trainings
-6. Meeting
+6. Meetings
