@@ -8,12 +8,12 @@ It is based on author personal's experience of leading an university robotics te
 2. Finance
 3. Yearly Activities
 4. Team Organization
-5. Trainings[Additional Links](https://github.com/MorokotSakal/robotics-se/tree/main/Trainings)
+5. Trainings [(Additional Links)](https://github.com/MorokotSakal/robotics-se/tree/main/Trainings)
 6. Meetings
 
 ## Slides
 ![](https://github.com/MorokotSakal/robotics-se/blob/main/img/Slide1.png)
-![](./img/Slide_2.png)
+![](img/Slide_2.png)
 ![](./img/Slide_3.png)
 ![](./img/Slide_4.png)
 ![](./img/Slide_5.png)
