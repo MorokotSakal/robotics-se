@@ -12,7 +12,7 @@ It is based on author personal's experience of leading an university robotics te
 6. Meetings
 
 ## Slides
-![](./img/Slide_1.png)
+![](https://github.com/MorokotSakal/robotics-se/blob/main/img/Slide1.png)
 ![](./img/Slide_2.png)
 ![](./img/Slide_3.png)
 ![](./img/Slide_4.png)
