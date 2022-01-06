@@ -12,29 +12,6 @@ It is based on author personal's experience of leading an university robotics te
 6. Meetings
 
 ## Slides
-<<<<<<< HEAD
-![](https://github.com/MorokotSakal/robotics-se/blob/main/img/Slide1.png)
-![](img/Slide_2.png)
-![](./img/Slide_3.png)
-![](./img/Slide_4.png)
-![](./img/Slide_5.png)
-![](./img/Slide_6.png)
-![](./img/Slide_7.png)
-![](./img/Slide_8.png)
-![](./img/Slide_9.png)
-![](./img/Slide_10.png)
-![](./img/Slide_11.png)
-![](./img/Slide_12.png)
-![](./img/Slide_13.png)
-![](./img/Slide_14.png)
-![](./img/Slide_15.png)
-![](./img/Slide_16.png)
-![](./img/Slide_17.png)
-![](./img/Slide_18.png)
-![](./img/Slide_19.png)
-![](./img/Slide_20.png)
-![](./img/Slide_21.png)
-=======
 ![](./img/Slide1.png)
 ![](./img/Slide2.png)
 ![](./img/Slide3.png)
@@ -56,4 +33,3 @@ It is based on author personal's experience of leading an university robotics te
 ![](./img/Slide19.png)
 ![](./img/Slide20.png)
 ![](./img/Slide21.png)
->>>>>>> 1979933b8508740034f6f15216f79a194759d7e7
