@@ -8,7 +8,7 @@
 
 ## Mechanical Design
 - MIT lectures about [mechanical design](https://meddevdesign.mit.edu/fundamentals-of-design/​​)
-- List of [Mechanism] (http://507movements.com/​)
+- List of [Mechanism](http://507movements.com/​)
 - Simple Mechanism [HERE](https://www.robives.com/mechanism/)
 - Video tutorial about mechanical design by MIA Robotics [HERE](https://www.miarobotics.com/mechanical%20sessions%20new.html)
 
