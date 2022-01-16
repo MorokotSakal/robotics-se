@@ -2,7 +2,7 @@
 A system engineering aproach of how to lead a robotics team in university. 
 It is based on author personal's experience of leading an university robotics team in Cambodia.
 
-សម្រាប់ភាសាឯកសារជាភាសាខ្មែរ សូមចុចត្រង់[នេះ](./KhmerTranslation)
+សម្រាប់ឯកសារជាភាសាខ្មែរ សូមចុចត្រង់[នេះ](./KhmerTranslation)
 
 ## Contents
 1. Goal & Strategy
