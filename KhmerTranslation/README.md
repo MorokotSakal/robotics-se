@@ -1,4 +1,4 @@
-# Leading a Robotics Team in University - System Engineering Approach
+# Lរបៀបដឹកនាំក្រុមរ៉ូប៉ូតនៅសាកលវិទ្យាល័យ - តាមវិធីសាស្រ្តវិស្វកម្មប្រព័ន្ធ (System Engineering)
 
 ## Slides
 ![](./img/Slide1.png)
