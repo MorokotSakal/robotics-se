@@ -4,7 +4,7 @@ It is based on author personal's experience of leading an university robotics te
 
 សម្រាប់ឯកសារជាភាសាខ្មែរ សូមចុចត្រង់[នេះ](./KhmerTranslation)
 
-Download the powerpoint slides via following links [English Version] (https://github.com/MorokotSakal/robotics-se/blob/main/RoboticsTeam_SysEng_EN_211227.pptx) and [Khmer Version] (https://github.com/MorokotSakal/robotics-se/blob/main/RoboticsTeam_SysEng_EN_211227.pptx)
+Download the powerpoint slides via following links [English Version](https://github.com/MorokotSakal/robotics-se/blob/main/RoboticsTeam_SysEng_EN_211227.pptx) and [Khmer Version](https://github.com/MorokotSakal/robotics-se/blob/main/RoboticsTeam_SysEng_EN_211227.pptx)
 
 ## Contents
 1. Goal & Strategy
