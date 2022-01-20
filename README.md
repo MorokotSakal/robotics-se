@@ -9,3 +9,6 @@ For English version, please click [HERE](./EnglishVersion)
 To download the powerpoint slides, click
 - [English Version](./EnglishVersion/RoboticsTeam_SysEng_EN_211227.pptx)
 - [Khmer Version](./KhmerTranslation/RoboticsTeam_SysEng_KH_220116.pptx)
+
+
+For training materials to new members, please go to this additional [link](./Trainings)
