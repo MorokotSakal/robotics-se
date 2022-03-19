@@ -21,5 +21,5 @@
 ![](./img/Slide17.png)
 ![](./img/Slide18.png)
 ![](./img/Slide19.png)
-![](./img/Slide20.png)
+<!---![](./img/Slide20.png)--->
 ![](./img/Slide21.png)
